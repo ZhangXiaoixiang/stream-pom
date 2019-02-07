@@ -1,7 +1,7 @@
 #eureka集群配置
 #指服务明端口号
 server:
-  port: 8080
+  port: 8082
   #由于需要相互注册,所以就也需要配置注册的相关内容
   #服务映射名称
 spring:
@@ -11,4 +11,4 @@ spring:
     stream:
       bindings:
         myInput:
-          group: groupA
+          group: groupB

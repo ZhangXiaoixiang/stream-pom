@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-consumer" />
+        <module name="spring-consumer2" />
+        <module name="spring-consumer3" />
         <module name="spring-producer" />
         <module name="spring-server" />
         <module name="stream-pom" />
@@ -16,6 +18,8 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="spring-consumer" options="-parameters" />
+      <module name="spring-consumer2" options="-parameters" />
+      <module name="spring-consumer3" options="-parameters" />
       <module name="spring-producer" options="-parameters" />
       <module name="spring-server" options="-parameters" />
     </option>

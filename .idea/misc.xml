@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/spring-server/pom.xml" />
         <option value="$PROJECT_DIR$/spring-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/spring-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-consumer2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-consumer3/pom.xml" />
       </list>
     </option>
   </component>
